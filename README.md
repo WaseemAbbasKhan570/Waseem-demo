@@ -1,2 +1,4 @@
 # Waseem-demo
-This is my first Git Repository.Author Waseem Abbas Khan
+This is my first Git Repository.
+<br>
+Author Waseem Abbas Khan
